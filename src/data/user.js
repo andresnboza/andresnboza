@@ -11,20 +11,26 @@ const INFO = {
 		github: "https://github.com/andresnboza",
 		linkedin: "https://www.linkedin.com/in/andres-navarrete-boza-3056b8155/",
 		instagram: "https://www.instagram.com/andresnboza/",
-		// stackoverflow: "https://stackoverflow.com/",
-		// facebook: "https://facebook.com/",
+		stackoverflow: "https://stackoverflow.com/",
+		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
 		title: "Software Engineer, with an emphasis in Software Development.",
 		description:
-			"I am a Software Engineer with expertise in Node.js, .Net, Angular and React. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a Software Engineer with expertise in Node.js, .Net, Angular and React.\
+			 I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. \
+			 I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows \
+			 best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Andres Navarrete Boza, I live in Costa Rica, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I've had the opportunity to work on a wide range of projects over the years, \
+			including roles at major companies like IBM, Midware, Serverless Solutions and collaborations with clients in the US and Europe. \
+			If you're interested in any of my work, feel free to check out the code on Github and share any suggestions for improvements.\
+			I strongly believe in the power of collaboration and continuous learning, so I'm always open to new ideas and feedback.",
 	},
 
 	articles: {
